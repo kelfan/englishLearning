@@ -1,0 +1,4 @@
+# Wetlands Could Save Cities--and Money, Too
+https://www.scientificamerican.com/podcast/episode/wetlands-could-save-cities-and-money-too/
+
+Apart from the intrinsic beauty and the importance of nature of wetlands, the benefits of wetlands could be the reduction of impacts of storms and its economic benefits. For the impacts of storms, wetlands act as a barrier to reduce storm surge or a sponge to soak up the waters. These functions could cut flood damages by 16 percent as identified by researchers, which could put a price-tag of the economic benefit of wetlands. Therefore we should continue to conserve wetlands. 
