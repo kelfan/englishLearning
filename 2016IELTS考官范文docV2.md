@@ -7,27 +7,53 @@ d.	Opinion	⟼	Statement + Following Points – one point for one paragraph
 2.	`TOPIC`
  
 # Cambridge 10 Test 1
-`㊀背景` It is important for children to learn the difference between right and wrong at an early age. `㊁Argument` Punishment is necessary to help them learn this distinction. 
+`㊀背景` It is important for children to learn the difference between right and wrong at an early age. 
+`㊁Argument` Punishment is necessary to help them learn this distinction. 
 `㊂问题1：Y/N` To what extent do you agree or disagree with this opinion? 
 `㊃问题2：议论文`What sort of punishment should parents and teachers be allowed to use to teach good behaviour to children? 
-`背景转述㊀` One important stage in a child’s growth is certainly the development of a conscience, which is linked to the ability to tell right from wrong. `观点表达㊁㊂` This skill comes with time and good parenting `自己的观点+反驳了观点㊁`, and my firm conviction is that punishment does not have much of a role to play in this `表达作者观点也是文中主题句`. Therefore I have to disagree almost entirely with the given statement `回答To what extent`. `没有回答㊃`
-`反驳观点㊁` To some extent the question depends on the age of the child. [分①]()To punish a very young child is both wrong and foolish, [解释①]()as an infant will not understand what is happening or why he or she is being punished. [分②]() Once the age of reason is reached however, a child can be rewarded for good behaviour and discouraged from bad. [解释②]()This kind but firm approach will achieve more than harsh punishments, which might entail many negative consequences unintended by the parents.
-`弱化同意观点㊁` [承接 点①]() To help a child learn the difference between right and wrong, teachers and parents should firstly provide good role modelling in their own behaviour. [点②]() After that, if sanctions are needed, the punishment should not be of a physical nature, [解释②]() as that merely sends the message that it is acceptable for larger people to hit smaller ones – [effect②]() an outcome which may well result in the child starting to bully others. [强调②]() Nor should the punishment be in any way cruel.
-`回答问题 ㊃` Rather, [点①]() teachers and parents can use a variety of methods to discipline their young charges, [例子①]() such as detention, withdrawal of privileges, and time-out. [点② further development]() Making the punishment fit the crime is a useful notion，[例子②]() which would see children being made to pick up rubbish they have dropped, clean up graffiti they have drawn, or apologize to someone they have hurt. [点③ 总结 强调]() In these ways responsibility is developed in the child, which leads to much better future behaviour than does punishment. 
+
+`背景转述㊀` One important stage in a child’s growth is certainly the development of a conscience, which is linked to the ability to tell right from wrong. 
+`观点表达㊁㊂` This skill comes with time and good parenting `自己的观点+反驳了观点㊁`, and my firm conviction is that punishment does not have much of a role to play in this `表达作者观点也是文中主题句`. 
+Therefore I have to disagree almost entirely with the given statement `回答To what extent`. `没有回答㊃`
+
+`反驳观点㊁` To some extent the question depends on the age of the child. 
+[分①]()To punish a very young child is both wrong and foolish, [解释①]()as an infant will not understand what is happening or why he or she is being punished. 
+[分②]() Once the age of reason is reached however, a child can be rewarded for good behaviour and discouraged from bad. 
+[解释②]()This kind but firm approach will achieve more than harsh punishments, which might entail many negative consequences unintended by the parents.
+
+`弱化同意观点㊁` [承接 点①]() To help a child learn the difference between right and wrong, teachers and parents should firstly provide good role modelling in their own behaviour. 
+[点②]() After that, if sanctions are needed, the punishment should not be of a physical nature, [解释②]() as that merely sends the message that it is acceptable for larger people to hit smaller ones – [effect②]() an outcome which may well result in the child starting to bully others. 
+[强调②]() Nor should the punishment be in any way cruel.
+
+`回答问题 ㊃` Rather, [点①]() teachers and parents can use a variety of methods to discipline their young charges, [例子①]() such as detention, withdrawal of privileges, and time-out. 
+[点② further development]() Making the punishment fit the crime is a useful notion，[例子②]() which would see children being made to pick up rubbish they have dropped, clean up graffiti they have drawn, or apologize to someone they have hurt. 
+[点③ 总结 强调]() In these ways responsibility is developed in the child, which leads to much better future behaviour than does punishment. 
 连接词+例子 主题句 同义词+target topic
  
 # Cambridge 10 Test 3
 `㊀Background` Countries `Target` are becoming more and more similar `Topic` because people are able to buy the same products anywhere in the world.
 `㊁Question:  Y/N ` Do you think this is a positive or negative `argument`  development `Topic` ?
-`Paraphrase background` It is said that countries are becoming similar to each other because of the global spread of the same products, which are now available for purchase almost anywhere. `Author’s opinion` I strongly believe that this modern development is largely detrimental to culture and traditions worldwide.
-`Positive point` A country’s history, language and ethos are all inextricably bound up in its manufactured artefacts. If the relentless advance of international brands into every corner of the world continues, these bland packages might one day completely oust the traditional objects of a nation, which would be a loss of richness and diversity in the world, as well as the sad disappearance of the manifestations of a place’s character. What would a Japanese tea ceremony be without its specially crafted teapot, or a Fijian kava ritual without its bowl made from a certain type of tree bark?
-`Positive point` Let us not forget either that traditional products, whether these be medicines, cosmetics, toys, clothes, utensils or food, provide employment for local people. The spread of multinational products can often bring in its wake a loss of jobs, as people turn to buying the new brand, perhaps thinking it more glamorous than the one they are used to. This eventually puts old-school craftspeople out of work.
-`Positive point` Finally, tourism numbers may also be affected, as travellers become disillusioned with finding every place just the same as the one they visited previously. To see the same products in shops the world over is boring, and does not impel visitors to open their wallets in the same way that trinkets or souvenirs unique to the particular area do.
-`Negative point + conclusion` Some may argue that all people are entitled to have access to the same products, but I say that local objects suit local conditions best, and that faceless uniformity worldwide is an unwelcome and dreary prospect.
-不同颜色对应不同的同义词 连接词 例子  主题句
 
-逻辑转换
-> 
+`Paraphrase background` It is said that countries are becoming similar to each other because of the global spread of the same products, which are now available for purchase almost anywhere. 
+`Author’s opinion` I strongly believe that this modern development is largely detrimental to culture and traditions worldwide.
+> 连接:It is >> I 
+
+`Positive point` A country’s history, language and ethos are all inextricably bound up in its manufactured artefacts. 
+If the relentless advance of international brands into every corner of the world continues, these bland packages might one day completely oust the traditional objects of a nation, which would be a loss of richness and diversity in the world, as well as the sad disappearance of the manifestations of a place’s character. 
+What would a Japanese tea ceremony be without its specially crafted teapot, or a Fijian kava ritual without its bowl made from a certain type of tree bark?
+> 连接: A >> IF >> What
+
+`Positive point` Let us not forget either that traditional products, whether these be medicines, cosmetics, toys, clothes, utensils or food, provide employment for local people. 
+The spread of multinational products can often bring in its wake a loss of jobs, as people turn to buying the new brand, perhaps thinking it more glamorous than the one they are used to. 
+This eventually puts old-school craftspeople out of work.
+> 连接: Let us >> The >> This 
+
+`Positive point` Finally, tourism numbers may also be affected, as travellers become disillusioned with finding every place just the same as the one they visited previously. 
+To see the same products in shops the world over is boring, and does not impel visitors to open their wallets in the same way that trinkets or souvenirs unique to the particular area do.
+> 连接: 副词 >> To do >>
+
+`Negative point + conclusion` Some may argue that all people are entitled to have access to the same products, but I say that local objects suit local conditions best, and that faceless uniformity worldwide is an unwelcome and dreary prospect.
+> 连接: some >> but >> and 
 
 # Cambridge 10 Test B parenthood
 `Background` Some parents buy their children a large number of toys `topic` to play with. 
