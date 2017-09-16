@@ -10,6 +10,10 @@ Law enforcement in U.S. requested the company DreamHost to turn over relevant in
 https://www.scientificamerican.com/podcast/episode/cannibalism-quells-contagion-among-caterpillars/
 There are some advantages of cannibalism within caterpillars. At first, it is an esay-to-process meal to eat the same species which have all the nutrients required. Throughing this way, the competition within the same area can be reduced. Moreover, the infected individuals also could be removed by canibalism, which leads to the caterpillar population to wind up up healthier. 
 
+# Winking Star 6 Centuries Ago Explained
+https://www.scientificamerican.com/podcast/episode/winking-star-6-centuries-ago-explained/
+An astronomer - Michael Shara puzzled over the novalike fireworks exploded in the Milky Way each year like solving a jigsaw puzzle. He and his colleagues explained that the reason for the star to be seen within 14 days and to disappeared after that is that the white dwarf within the binary star system suck hydrogen off of the hydrogen-rich start within the same system, which leads to a thermonuclear event like a gigantic hydrogen bomb to be observed by astronomers. 
+
 
 
 
