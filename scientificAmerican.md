@@ -19,11 +19,12 @@ https://www.scientificamerican.com/podcast/episode/rising-co2-pushes-plants-to-d
  [Ralph F. Keeling et al, Atmospheric evidence for a global secular increase in carbon isotopic discrimination of land photosynthesis]
  If the level of CO2 rise, plants will use water more efficient, which means plants will release less water in the process of photosynthesis. The volumne of efficiency improvement was proved by a geochemist, Ralph Keeling, and his colleagues by calculating the ratio between the isotope carbon-13 and its lighter and much more prevalent cousin, carbon-12. 
 
+# Warming Puts Squeeze on Ancient Trees
+https://www.scientificamerican.com/podcast/episode/warming-puts-squeeze-on-ancient-trees/
+ [Brian V. Smithers et al, Leap-frog in slow-motion: divergent responses of tree species and life stages to climatic warming in Great Basin sub-alpine forests]
+Climate change changes the treeline of trees because the increase of temperature allow trees like limber pines can live in the place where bristlecone pines are living. 
 
 
 
 
 
-# 有道网页翻译2.0
-https://fanyi.youdao.com/web2/
-javascript: void((function() {var element = document.createElement('script');element.id = 'outfox_seed_js';element.charset = 'utf-8',element.setAttribute('src', 'http://fanyi.youdao.com/web2/seed.js?' + Date.parse(new Date()));document.body.appendChild(element);})())
