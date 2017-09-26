@@ -1,3 +1,8 @@
+# This Frog Can't Hear Its Own Calls
+https://www.scientificamerican.com/podcast/episode/this-frog-cant-hear-its-own-calls/
+[Sandra Goutte et al., Evidence of auditory insensitivity to vocalization frequencies in two frogs]
+Goutte, an evolutionary biologist and herpetologist, discovered that a piece of forg - pumpkin toadlet, is unable to hear the voice made by itself through tracing electrical impulses or even dissections when playing recordings of the calls to the frogs. 
+
 # Wetlands Could Save Cities--and Money, Too
 https://www.scientificamerican.com/podcast/episode/wetlands-could-save-cities-and-money-too/
 Apart from the intrinsic beauty and the importance of nature of wetlands, the benefits of wetlands could be the reduction of impacts of storms and its economic benefits. For the impacts of storms, wetlands act as a barrier to reduce storm surge or a sponge to soak up the waters. These functions could cut flood damages by 16 percent as identified by researchers, which could put a price-tag of the economic benefit of wetlands. Therefore we should continue to conserve wetlands.
@@ -16,8 +21,8 @@ An astronomer - Michael Shara puzzled over the novalike fireworks exploded in th
 
 # Rising CO2 Pushes Plants To Drink Sparingly
 https://www.scientificamerican.com/podcast/episode/rising-co2-pushes-plants-to-drink-sparingly/
- [Ralph F. Keeling et al, Atmospheric evidence for a global secular increase in carbon isotopic discrimination of land photosynthesis]
- If the level of CO2 rise, plants will use water more efficient, which means plants will release less water in the process of photosynthesis. The volumne of efficiency improvement was proved by a geochemist, Ralph Keeling, and his colleagues by calculating the ratio between the isotope carbon-13 and its lighter and much more prevalent cousin, carbon-12. 
+[Ralph F. Keeling et al, Atmospheric evidence for a global secular increase in carbon isotopic discrimination of land photosynthesis]
+If the level of CO2 rise, plants will use water more efficient, which means plants will release less water in the process of photosynthesis. The volumne of efficiency improvement was proved by a geochemist, Ralph Keeling, and his colleagues by calculating the ratio between the isotope carbon-13 and its lighter and much more prevalent cousin, carbon-12. 
 
 # Warming Puts Squeeze on Ancient Trees
 https://www.scientificamerican.com/podcast/episode/warming-puts-squeeze-on-ancient-trees/
