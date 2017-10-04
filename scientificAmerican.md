@@ -1,3 +1,6 @@
+# Electric Eels Increase Shock by Leaving Water
+https://www.scientificamerican.com/podcast/episode/electric-eels-increase-shock-by-leaving-water/
+
 # Nobel in Physics for Detecting Gravitational Waves
 https://www.scientificamerican.com/podcast/episode/nobel-in-physics-for-detecting-gravitational-waves/
 The Royal Swedish Academy of Science in Physics award professors for having direct observation of gravitational waves, which were predicted by Einstein in a hundred years ago, in the Laser Interferometer Gravitational Wave Observatory as a remarkable achievement. 
