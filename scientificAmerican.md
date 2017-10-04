@@ -1,3 +1,7 @@
+# Nobel in Physics for Detecting Gravitational Waves
+https://www.scientificamerican.com/podcast/episode/nobel-in-physics-for-detecting-gravitational-waves/
+The Royal Swedish Academy of Science in Physics award professors for having direct observation of gravitational waves, which were predicted by Einstein in a hundred years ago, in the Laser Interferometer Gravitational Wave Observatory as a remarkable achievement. 
+
 # This Frog Can't Hear Its Own Calls
 https://www.scientificamerican.com/podcast/episode/this-frog-cant-hear-its-own-calls/
 [Sandra Goutte et al., Evidence of auditory insensitivity to vocalization frequencies in two frogs]
