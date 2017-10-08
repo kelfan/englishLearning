@@ -1,5 +1,11 @@
+# InBrief: The Science of Early Childhood Development
+https://developingchild.harvard.edu/resources/inbrief-science-of-ecd/
+
 # Electric Eels Increase Shock by Leaving Water
 https://www.scientificamerican.com/podcast/episode/electric-eels-increase-shock-by-leaving-water/
+ [Kenneth C. Catania, Power Transfer to a Human during an Electric Eel’s Shocking Leap]
+ The scientist Catania vindicate renowed explorer - Alexander's story about electronic eel leaping into the air to shock two horses because this maneuver can deliver its shock in the most efficient way. To have a further measuremnet of the shock, Catania lure the eel leap out and shock on the metal piece on his arm, which result could reach as 40 to 50 milliamps of electrical current. 
+
 
 # Nobel in Physics for Detecting Gravitational Waves
 https://www.scientificamerican.com/podcast/episode/nobel-in-physics-for-detecting-gravitational-waves/
